@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore;
 using Nabu_Mobile.Models;
 using System.Text.Json;
 
-namespace MyRazorPage.Pages.Account
+namespace Nabu_Mobile.Pages.Account
 {
     public class EditModel : PageModel
     {

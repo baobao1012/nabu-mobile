@@ -6,7 +6,7 @@ using Nabu_Mobile.Models;
 using System.Runtime.CompilerServices;
 using System.Text.Json;
 
-namespace MyRazorPage.Pages.Account
+namespace Nabu_Mobile.Pages.Account
 {
     public class SignInModel : PageModel
     {

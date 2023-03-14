@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore;
 using Nabu_Mobile.common;
 using Nabu_Mobile.Models;
 
-namespace MyRazorPage.Pages.Account
+namespace Nabu_Mobile.Pages.Account
 {
     public class SignUpModel : PageModel
     {
