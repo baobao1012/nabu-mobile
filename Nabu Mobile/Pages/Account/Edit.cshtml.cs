@@ -1,29 +1,29 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
-using MyRazorPage.Models;
+using Nabu_Mobile.Models;
 using System.Text.Json;
 
 namespace MyRazorPage.Pages.Account
 {
     public class EditModel : PageModel
     {
-        private readonly PRN221_DBContext prn221DBContext;
+        private readonly PRN221DBContext prn221DBContext;
 
-        public EditModel(PRN221_DBContext prn221DBContext) => this.prn221DBContext = prn221DBContext;
-
-        [BindProperty]
-        public Models.Account? account { get; set; }
+        public EditModel(PRN221DBContext prn221DBContext) => this.prn221DBContext = prn221DBContext;
 
         [BindProperty]
-        public Models.Customer? customer { get; set; }
+        public Nabu_Mobile.Models.Account? account { get; set; }
+
+        [BindProperty]
+        public Nabu_Mobile.Models.Customer? customer { get; set; }
 
         public async Task<IActionResult> OnGet()
         {
             String? accountSession = HttpContext.Session.GetString("account");
             if (accountSession is not null)
             {
-                account = JsonSerializer.Deserialize<Models.Account>(accountSession);
+                account = JsonSerializer.Deserialize<Nabu_Mobile.Models.Account>(accountSession);
                 if (account is not null)
                 {
                     customer = await findByCustomerId(account.CustomerId);
@@ -38,7 +38,7 @@ namespace MyRazorPage.Pages.Account
             if (!ModelState.IsValid)
             {
                 String? getAccount = HttpContext.Session.GetString("account");
-                var acc = JsonSerializer.Deserialize<Models.Account>(getAccount);
+                var acc = JsonSerializer.Deserialize<Nabu_Mobile.Models.Account>(getAccount);
                 var cus = await findByCustomerId(acc.CustomerId);
                 if(cus is not null)
                 {
@@ -58,7 +58,7 @@ namespace MyRazorPage.Pages.Account
             return Page();
         }
 
-        public async Task<Models.Customer?> findByCustomerId(String? customerId)
+        public async Task<Nabu_Mobile.Models.Customer?> findByCustomerId(String? customerId)
         {
             var customer = await prn221DBContext.Customers
                 .FirstOrDefaultAsync(x => x.CustomerId == customerId);

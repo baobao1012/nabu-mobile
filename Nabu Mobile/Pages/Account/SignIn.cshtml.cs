@@ -1,8 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
-using MyRazorPage.common;
-using MyRazorPage.Models;
+using Nabu_Mobile.common;
+using Nabu_Mobile.Models;
 using System.Runtime.CompilerServices;
 using System.Text.Json;
 
@@ -11,13 +11,13 @@ namespace MyRazorPage.Pages.Account
     public class SignInModel : PageModel
     {
 
-        private readonly PRN221_DBContext prn221DBContext;
+        private readonly PRN221DBContext prn221DBContext;
         private readonly CommonRole commonRole = new();
 
-        public SignInModel(PRN221_DBContext prn221DBContext) => this.prn221DBContext = prn221DBContext;
+        public SignInModel(PRN221DBContext prn221DBContext) => this.prn221DBContext = prn221DBContext;
 
         [BindProperty]
-        public Models.Account? account { get; set; }
+        public Nabu_Mobile.Models.Account? account { get; set; }
 
         public async Task<IActionResult> OnPost()
         {
@@ -41,7 +41,7 @@ namespace MyRazorPage.Pages.Account
             return Page();
         }
 
-        public async Task<Models.Account?> findByEmailAndPassword(String? email, String? password)
+        public async Task<Nabu_Mobile.Models.Account?> findByEmailAndPassword(String? email, String? password)
         {
             var accountInDB = await prn221DBContext.Accounts
                 .FirstOrDefaultAsync(x => x.Email == email && x.Password == password);

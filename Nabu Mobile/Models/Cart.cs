@@ -1,4 +1,4 @@
-﻿namespace MyRazorPage.Models
+﻿namespace Nabu_Mobile.Models
 {
     public class Cart
     {

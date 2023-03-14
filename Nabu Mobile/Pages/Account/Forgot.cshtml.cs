@@ -3,22 +3,22 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Internal;
-using MyRazorPage.Models;
+using Nabu_Mobile.Models;
 using System;
 using System.Net;
 using System.Net.Mail;
 using System.Security.Principal;
 
-namespace MyRazorPage.Pages.Account
+namespace Nabu_Mobile.Pages.Account
 {
     public class ForgotModel : PageModel
     {
-        private readonly PRN221_DBContext prn221DBContext;
+        private readonly PRN221DBContext prn221DBContext;
         private readonly Random _random = new();
         private readonly int passwordLength = 5;
 
 
-        public ForgotModel(PRN221_DBContext prn221DBContext)
+        public ForgotModel(PRN221DBContext prn221DBContext)
            => this.prn221DBContext = prn221DBContext;
 
         [BindProperty]

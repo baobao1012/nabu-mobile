@@ -1,19 +1,19 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
-using MyRazorPage.Models;
+using Nabu_Mobile.Models;
 using System;
 using System.Security.Principal;
 using System.Text.Json;
 
-namespace MyRazorPage.Pages.Account
+namespace Nabu_Mobile.Pages.Account
 {
     public class CartModel : PageModel
     {
-        private readonly PRN221_DBContext prn221DBContext;
+        private readonly PRN221DBContext prn221DBContext;
         private readonly int lENGTH_CUSTOMER_ID = 5;
         private readonly Random _random = new();
-        public CartModel(PRN221_DBContext prn221DBContext)
+        public CartModel(PRN221DBContext prn221DBContext)
             =>  this.prn221DBContext = prn221DBContext;
         [BindProperty]
         public List<Cart>? carts { get; set; }
@@ -117,7 +117,7 @@ namespace MyRazorPage.Pages.Account
 
             if (session is not null)
             {
-                acc = JsonSerializer.Deserialize<MyRazorPage.Models.Account>(session);
+                acc = JsonSerializer.Deserialize<Nabu_Mobile.Models.Account>(session);
                 cus = prn221DBContext.Customers.SingleOrDefault(x => x.CustomerId == acc.CustomerId);
             }
             else

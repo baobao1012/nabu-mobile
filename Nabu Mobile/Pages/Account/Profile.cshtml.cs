@@ -1,19 +1,19 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
-using MyRazorPage.common;
-using MyRazorPage.Models;
+using Nabu_Mobile.common;
+using Nabu_Mobile.Models;
 using System.Security.Principal;
 using System.Text.Json;
 
-namespace MyRazorPage.Pages.Account
+namespace Nabu_Mobile.Pages.Account
 {
     public class ProfileModel : PageModel
     {
-        private readonly PRN221_DBContext prn221DBContext;
+        private readonly PRN221DBContext prn221DBContext;
         private readonly CommonRole commonRole = new();
 
-        public ProfileModel(PRN221_DBContext prn221DBContext) => this.prn221DBContext = prn221DBContext;
+        public ProfileModel(PRN221DBContext prn221DBContext) => this.prn221DBContext = prn221DBContext;
 
         [BindProperty]
         public Models.Account? account { get; set; }

@@ -1,26 +1,26 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
-using MyRazorPage.common;
-using MyRazorPage.Models;
+using Nabu_Mobile.common;
+using Nabu_Mobile.Models;
 
 namespace MyRazorPage.Pages.Account
 {
     public class SignUpModel : PageModel
     {
         
-        private readonly PRN221_DBContext prn221DBContext;
+        private readonly PRN221DBContext prn221DBContext;
         private readonly Random _random = new();
         private readonly int lENGTH_CUSTOMER_ID = 5;
         private readonly CommonRole commonRole = new();
 
-        public SignUpModel(PRN221_DBContext prn221DBContext) => this.prn221DBContext = prn221DBContext;
+        public SignUpModel(PRN221DBContext prn221DBContext) => this.prn221DBContext = prn221DBContext;
 
         //Khai báo 2 thuộc tính đại diện cho 2 đối tượng : Account, Customer
         [BindProperty]
         public Customer customer { get;set; }
         [BindProperty]
-        public Models.Account account { get; set; }
+        public Nabu_Mobile.Models.Account account { get; set; }
 
         public void OnGet()
         {
@@ -44,7 +44,7 @@ namespace MyRazorPage.Pages.Account
                         Address = customer.Address
                     };
 
-                    var _account = new Models.Account
+                    var _account = new Nabu_Mobile.Models.Account
                     {
                         Email = account.Email,
                         Password = account.Password,
