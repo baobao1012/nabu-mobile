@@ -40,6 +40,18 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Aspose.PDF": {
+              "target": "Package",
+              "version": "[22.10.0, )"
+            },
+            "ClosedXML": {
+              "target": "Package",
+              "version": "[0.97.0, )"
+            },
+            "EPPlus": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -59,6 +71,10 @@
             "Microsoft.Extensions.Configuration.Json": {
               "target": "Package",
               "version": "[6.0.0, )"
+            },
+            "Scriban": {
+              "target": "Package",
+              "version": "[5.5.0, )"
             }
           },
           "imports": [

@@ -1,6 +1,6 @@
 ﻿using System.Numerics;
 
-namespace MyRazorPage.common
+namespace Nabu_Mobile.common
 {
     public class CommonRole
     {

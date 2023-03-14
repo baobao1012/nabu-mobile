@@ -61,3 +61,5 @@ D:\FULearning\Spring2023-Ss7\PRN211\nabu-mobile\Nabu Mobile\obj\Debug\net6.0\ref
 D:\FULearning\Spring2023-Ss7\PRN211\nabu-mobile\Nabu Mobile\obj\Debug\net6.0\Nabu Mobile.pdb
 D:\FULearning\Spring2023-Ss7\PRN211\nabu-mobile\Nabu Mobile\obj\Debug\net6.0\Nabu Mobile.genruntimeconfig.cache
 D:\FULearning\Spring2023-Ss7\PRN211\nabu-mobile\Nabu Mobile\obj\Debug\net6.0\ref\Nabu Mobile.dll
+D:\FULearning\Spring2023-Ss7\PRN211\nabu-mobile\Nabu Mobile\obj\Debug\net6.0\Nabu Mobile.RazorAssemblyInfo.cache
+D:\FULearning\Spring2023-Ss7\PRN211\nabu-mobile\Nabu Mobile\obj\Debug\net6.0\Nabu Mobile.RazorAssemblyInfo.cs
