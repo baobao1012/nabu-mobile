@@ -16,6 +16,34 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\FULearning\Spring2023-Ss7\PRN211\nabu-mobile\Nabu Mobile
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/FULearning/Spring2023-Ss7/PRN211/nabu-mobile/Nabu Mobile/Pages/Account/Cart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxDYXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FULearning/Spring2023-Ss7/PRN211/nabu-mobile/Nabu Mobile/Pages/Account/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FULearning/Spring2023-Ss7/PRN211/nabu-mobile/Nabu Mobile/Pages/Account/Forgot.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxGb3Jnb3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FULearning/Spring2023-Ss7/PRN211/nabu-mobile/Nabu Mobile/Pages/Account/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxQcm9maWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FULearning/Spring2023-Ss7/PRN211/nabu-mobile/Nabu Mobile/Pages/Account/SignIn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxTaWduSW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FULearning/Spring2023-Ss7/PRN211/nabu-mobile/Nabu Mobile/Pages/Account/SignOut.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxTaWduT3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FULearning/Spring2023-Ss7/PRN211/nabu-mobile/Nabu Mobile/Pages/Account/SignUp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxTaWduVXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/FULearning/Spring2023-Ss7/PRN211/nabu-mobile/Nabu Mobile/Pages/Admin/Customer/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ3VzdG9tZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
