@@ -2,26 +2,26 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
-using MyRazorPage.Models;
+using Nabu_Mobile.Models;
 using System.Diagnostics;
 
-namespace MyRazorPage.Pages.Category
+namespace Nabu_Mobile.Pages.Category
 {
     public class IndexModel : PageModel
     {
-        private readonly PRN221_DBContext prn221DBContext;
+        private readonly PRN221DBContext prn221DBContext;
         private readonly IConfiguration configuration;
 
         [BindProperty]
         public List<Models.Category> categories { get; set; }
 
         [BindProperty]
-        public Pager<Models.Product> products { get; set;  }
+        public Pager<Nabu_Mobile.Models.Product> products { get; set;  }
 
         [BindProperty]
         public int currentPage { get; set; }
 
-        public IndexModel(PRN221_DBContext prn221DBContext, IConfiguration configuration)
+        public IndexModel(PRN221DBContext prn221DBContext, IConfiguration configuration)
         {
             this.prn221DBContext = prn221DBContext;
             this.configuration = configuration;
