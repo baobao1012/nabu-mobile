@@ -30,13 +30,12 @@ namespace Nabu_Mobile.Models
             if (!optionsBuilder.IsConfigured)
             {
                 var builder = new ConfigurationBuilder()
-                                .SetBasePath(Directory.GetCurrentDirectory())
-                                .AddJsonFile("appsettings.json", optional: true, reloadOnChange: true);
+                .SetBasePath(Directory.GetCurrentDirectory())
+                .AddJsonFile("appsettings.json", optional: true, reloadOnChange: true);
                 IConfigurationRoot configuration = builder.Build();
                 optionsBuilder.UseSqlServer(configuration.GetConnectionString("ApConStr"));
             }
         }
-
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Account>(entity =>

@@ -11,16 +11,17 @@
     <PackageReference Include="Aspose.PDF" Version="22.10.0" />
     <PackageReference Include="ClosedXML" Version="0.97.0" />
     <PackageReference Include="EPPlus" Version="6.0.8" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.10">
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.9">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
-    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.10" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.10">
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.9" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.9">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
     <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="6.0.0" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.9" />
     <PackageReference Include="Scriban" Version="5.5.0" />
   </ItemGroup>
 

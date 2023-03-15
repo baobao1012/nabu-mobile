@@ -1,13 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\nabu-mobile",
-    "\\nabu-mobile\\nabu-mobile\\bin",
-    "\\nabu-mobile\\nabu-mobile\\bin\\Debug",
-    "\\nabu-mobile\\nabu-mobile\\bin\\Debug\\net6.0",
-    "\\nabu-mobile\\nabu-mobile\\bin\\Release",
-    "\\nabu-mobile\\nabu-mobile\\common"
+    "\\Nabu Mobile",
+    "\\Nabu Mobile\\Models",
+    "\\Nabu Mobile\\Pages"
   ],
-  "SelectedNode": "\\nabu-mobile",
+  "SelectedNode": "\\Nabu Mobile\\Models\\Cart.cs",
   "PreviewInSolutionExplorer": false
 }

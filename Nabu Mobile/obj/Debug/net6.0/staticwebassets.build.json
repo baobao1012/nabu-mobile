@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "33DftK1ghJCU8LTB8vsU4BuFYQu1zMtEAOaltpQOsSg=",
+  "Hash": "wGjQl/2sDVIdbdE5//ScfXEUradhDherHVcvYzn2hz8=",
   "Source": "Nabu_Mobile",
   "BasePath": "_content/Nabu_Mobile",
   "Mode": "Default",
@@ -17,12 +17,12 @@
   ],
   "Assets": [
     {
-      "Identity": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\css\\site.css",
+      "Identity": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\css\\style.css",
       "SourceId": "Nabu_Mobile",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\",
       "BasePath": "_content/Nabu_Mobile",
-      "RelativePath": "css/site.css",
+      "RelativePath": "css/style.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -31,15 +31,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\site.css"
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\favicon.ico",
+      "Identity": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\img\\1.jpg",
       "SourceId": "Nabu_Mobile",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\",
       "BasePath": "_content/Nabu_Mobile",
-      "RelativePath": "favicon.ico",
+      "RelativePath": "img/1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -48,7 +48,41 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\favicon.ico"
+      "OriginalItemSpec": "wwwroot\\img\\1.jpg"
+    },
+    {
+      "Identity": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\img\\2.jpg",
+      "SourceId": "Nabu_Mobile",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\",
+      "BasePath": "_content/Nabu_Mobile",
+      "RelativePath": "img/2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\2.jpg"
+    },
+    {
+      "Identity": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\img\\logo.png",
+      "SourceId": "Nabu_Mobile",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\",
+      "BasePath": "_content/Nabu_Mobile",
+      "RelativePath": "img/logo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\logo.png"
     },
     {
       "Identity": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\js\\site.js",
@@ -1035,6 +1069,57 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.js",
+      "SourceId": "Nabu_Mobile",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\",
+      "BasePath": "_content/Nabu_Mobile",
+      "RelativePath": "lib/microsoft/signalr/dist/browser/signalr.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.js"
+    },
+    {
+      "Identity": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.min.js",
+      "SourceId": "Nabu_Mobile",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\",
+      "BasePath": "_content/Nabu_Mobile",
+      "RelativePath": "lib/microsoft/signalr/dist/browser/signalr.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.min.js"
+    },
+    {
+      "Identity": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\Program.cs",
+      "SourceId": "Nabu_Mobile",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\",
+      "BasePath": "_content/Nabu_Mobile",
+      "RelativePath": "Program.cs",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Program.cs"
     }
   ]
 }

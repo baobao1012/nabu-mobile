@@ -15,7 +15,9 @@ namespace Nabu_Mobile.Pages
         public List<Models.Product> bestSaleProducts { get; set; }
 
         public IndexModel(PRN221DBContext prn221DBContext)
-            => this.prn221DBContext = prn221DBContext;
+        {
+            this.prn221DBContext = prn221DBContext;
+        }
 
         public void OnGet()
         {
