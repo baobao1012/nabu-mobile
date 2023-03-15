@@ -1,263 +1,263 @@
 {
   "Files": [
     {
-      "Id": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\Program.cs",
+      "Id": "E:\\FULearning\\Spring2023\\PRN211\\project\\nabu-mobile\\Nabu Mobile\\wwwroot\\Program.cs",
       "PackagePath": "staticwebassets\\Program.cs"
     },
     {
-      "Id": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\css\\style.css",
+      "Id": "E:\\FULearning\\Spring2023\\PRN211\\project\\nabu-mobile\\Nabu Mobile\\wwwroot\\css\\style.css",
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
-      "Id": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\img\\1.jpg",
+      "Id": "E:\\FULearning\\Spring2023\\PRN211\\project\\nabu-mobile\\Nabu Mobile\\wwwroot\\img\\1.jpg",
       "PackagePath": "staticwebassets\\img\\1.jpg"
     },
     {
-      "Id": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\img\\2.jpg",
+      "Id": "E:\\FULearning\\Spring2023\\PRN211\\project\\nabu-mobile\\Nabu Mobile\\wwwroot\\img\\2.jpg",
       "PackagePath": "staticwebassets\\img\\2.jpg"
     },
     {
-      "Id": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\img\\logo.png",
+      "Id": "E:\\FULearning\\Spring2023\\PRN211\\project\\nabu-mobile\\Nabu Mobile\\wwwroot\\img\\logo.png",
       "PackagePath": "staticwebassets\\img\\logo.png"
     },
     {
-      "Id": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\js\\site.js",
+      "Id": "E:\\FULearning\\Spring2023\\PRN211\\project\\nabu-mobile\\Nabu Mobile\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "E:\\FULearning\\Spring2023\\PRN211\\project\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "E:\\FULearning\\Spring2023\\PRN211\\project\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "E:\\FULearning\\Spring2023\\PRN211\\project\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "E:\\FULearning\\Spring2023\\PRN211\\project\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "E:\\FULearning\\Spring2023\\PRN211\\project\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "E:\\FULearning\\Spring2023\\PRN211\\project\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "E:\\FULearning\\Spring2023\\PRN211\\project\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "E:\\FULearning\\Spring2023\\PRN211\\project\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "E:\\FULearning\\Spring2023\\PRN211\\project\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "E:\\FULearning\\Spring2023\\PRN211\\project\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "E:\\FULearning\\Spring2023\\PRN211\\project\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "E:\\FULearning\\Spring2023\\PRN211\\project\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "E:\\FULearning\\Spring2023\\PRN211\\project\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "E:\\FULearning\\Spring2023\\PRN211\\project\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "E:\\FULearning\\Spring2023\\PRN211\\project\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "E:\\FULearning\\Spring2023\\PRN211\\project\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "E:\\FULearning\\Spring2023\\PRN211\\project\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "E:\\FULearning\\Spring2023\\PRN211\\project\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "E:\\FULearning\\Spring2023\\PRN211\\project\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "E:\\FULearning\\Spring2023\\PRN211\\project\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "E:\\FULearning\\Spring2023\\PRN211\\project\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "E:\\FULearning\\Spring2023\\PRN211\\project\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "E:\\FULearning\\Spring2023\\PRN211\\project\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "E:\\FULearning\\Spring2023\\PRN211\\project\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "E:\\FULearning\\Spring2023\\PRN211\\project\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "E:\\FULearning\\Spring2023\\PRN211\\project\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "E:\\FULearning\\Spring2023\\PRN211\\project\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "E:\\FULearning\\Spring2023\\PRN211\\project\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "E:\\FULearning\\Spring2023\\PRN211\\project\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "E:\\FULearning\\Spring2023\\PRN211\\project\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "E:\\FULearning\\Spring2023\\PRN211\\project\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "E:\\FULearning\\Spring2023\\PRN211\\project\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "E:\\FULearning\\Spring2023\\PRN211\\project\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "E:\\FULearning\\Spring2023\\PRN211\\project\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "E:\\FULearning\\Spring2023\\PRN211\\project\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "E:\\FULearning\\Spring2023\\PRN211\\project\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "E:\\FULearning\\Spring2023\\PRN211\\project\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "E:\\FULearning\\Spring2023\\PRN211\\project\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "E:\\FULearning\\Spring2023\\PRN211\\project\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "E:\\FULearning\\Spring2023\\PRN211\\project\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "E:\\FULearning\\Spring2023\\PRN211\\project\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "E:\\FULearning\\Spring2023\\PRN211\\project\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "E:\\FULearning\\Spring2023\\PRN211\\project\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "E:\\FULearning\\Spring2023\\PRN211\\project\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "E:\\FULearning\\Spring2023\\PRN211\\project\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "E:\\FULearning\\Spring2023\\PRN211\\project\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "E:\\FULearning\\Spring2023\\PRN211\\project\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "E:\\FULearning\\Spring2023\\PRN211\\project\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "E:\\FULearning\\Spring2023\\PRN211\\project\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "E:\\FULearning\\Spring2023\\PRN211\\project\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "E:\\FULearning\\Spring2023\\PRN211\\project\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "E:\\FULearning\\Spring2023\\PRN211\\project\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "E:\\FULearning\\Spring2023\\PRN211\\project\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "E:\\FULearning\\Spring2023\\PRN211\\project\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "E:\\FULearning\\Spring2023\\PRN211\\project\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "E:\\FULearning\\Spring2023\\PRN211\\project\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "E:\\FULearning\\Spring2023\\PRN211\\project\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.js",
+      "Id": "E:\\FULearning\\Spring2023\\PRN211\\project\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.js",
       "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\browser\\signalr.js"
     },
     {
-      "Id": "D:\\FULearning\\Spring2023-Ss7\\PRN211\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.min.js",
+      "Id": "E:\\FULearning\\Spring2023\\PRN211\\project\\nabu-mobile\\Nabu Mobile\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.min.js",
       "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\browser\\signalr.min.js"
     },
     {

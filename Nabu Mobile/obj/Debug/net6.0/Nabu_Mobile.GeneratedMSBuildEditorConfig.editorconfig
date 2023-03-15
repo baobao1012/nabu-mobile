@@ -9,109 +9,109 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Nabu_Mobile
 build_property.RootNamespace = Nabu_Mobile
-build_property.ProjectDir = D:\FULearning\Spring2023-Ss7\PRN211\nabu-mobile\Nabu Mobile\
+build_property.ProjectDir = E:\FULearning\Spring2023\PRN211\project\nabu-mobile\Nabu Mobile\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\FULearning\Spring2023-Ss7\PRN211\nabu-mobile\Nabu Mobile
+build_property.MSBuildProjectDirectory = E:\FULearning\Spring2023\PRN211\project\nabu-mobile\Nabu Mobile
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/FULearning/Spring2023-Ss7/PRN211/nabu-mobile/Nabu Mobile/Pages/Account/Cart.cshtml]
+[E:/FULearning/Spring2023/PRN211/project/nabu-mobile/Nabu Mobile/Pages/Account/Cart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxDYXJ0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FULearning/Spring2023-Ss7/PRN211/nabu-mobile/Nabu Mobile/Pages/Account/Edit.cshtml]
+[E:/FULearning/Spring2023/PRN211/project/nabu-mobile/Nabu Mobile/Pages/Account/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FULearning/Spring2023-Ss7/PRN211/nabu-mobile/Nabu Mobile/Pages/Account/Forgot.cshtml]
+[E:/FULearning/Spring2023/PRN211/project/nabu-mobile/Nabu Mobile/Pages/Account/Forgot.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxGb3Jnb3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FULearning/Spring2023-Ss7/PRN211/nabu-mobile/Nabu Mobile/Pages/Account/Profile.cshtml]
+[E:/FULearning/Spring2023/PRN211/project/nabu-mobile/Nabu Mobile/Pages/Account/Profile.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxQcm9maWxlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FULearning/Spring2023-Ss7/PRN211/nabu-mobile/Nabu Mobile/Pages/Account/SignIn.cshtml]
+[E:/FULearning/Spring2023/PRN211/project/nabu-mobile/Nabu Mobile/Pages/Account/SignIn.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxTaWduSW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FULearning/Spring2023-Ss7/PRN211/nabu-mobile/Nabu Mobile/Pages/Account/SignOut.cshtml]
+[E:/FULearning/Spring2023/PRN211/project/nabu-mobile/Nabu Mobile/Pages/Account/SignOut.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxTaWduT3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FULearning/Spring2023-Ss7/PRN211/nabu-mobile/Nabu Mobile/Pages/Account/SignUp.cshtml]
+[E:/FULearning/Spring2023/PRN211/project/nabu-mobile/Nabu Mobile/Pages/Account/SignUp.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxTaWduVXAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FULearning/Spring2023-Ss7/PRN211/nabu-mobile/Nabu Mobile/Pages/Admin/Customer/Index.cshtml]
+[E:/FULearning/Spring2023/PRN211/project/nabu-mobile/Nabu Mobile/Pages/Admin/Customer/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ3VzdG9tZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FULearning/Spring2023-Ss7/PRN211/nabu-mobile/Nabu Mobile/Pages/Admin/DashBoard.cshtml]
+[E:/FULearning/Spring2023/PRN211/project/nabu-mobile/Nabu Mobile/Pages/Admin/DashBoard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cRGFzaEJvYXJkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FULearning/Spring2023-Ss7/PRN211/nabu-mobile/Nabu Mobile/Pages/Admin/Order/Delete.cshtml]
+[E:/FULearning/Spring2023/PRN211/project/nabu-mobile/Nabu Mobile/Pages/Admin/Order/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cT3JkZXJcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FULearning/Spring2023-Ss7/PRN211/nabu-mobile/Nabu Mobile/Pages/Admin/Order/Detail.cshtml]
+[E:/FULearning/Spring2023/PRN211/project/nabu-mobile/Nabu Mobile/Pages/Admin/Order/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cT3JkZXJcRGV0YWlsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FULearning/Spring2023-Ss7/PRN211/nabu-mobile/Nabu Mobile/Pages/Admin/Order/Index.cshtml]
+[E:/FULearning/Spring2023/PRN211/project/nabu-mobile/Nabu Mobile/Pages/Admin/Order/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cT3JkZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FULearning/Spring2023-Ss7/PRN211/nabu-mobile/Nabu Mobile/Pages/Admin/Product/Create.cshtml]
+[E:/FULearning/Spring2023/PRN211/project/nabu-mobile/Nabu Mobile/Pages/Admin/Product/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cUHJvZHVjdFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FULearning/Spring2023-Ss7/PRN211/nabu-mobile/Nabu Mobile/Pages/Admin/Product/Delete.cshtml]
+[E:/FULearning/Spring2023/PRN211/project/nabu-mobile/Nabu Mobile/Pages/Admin/Product/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cUHJvZHVjdFxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FULearning/Spring2023-Ss7/PRN211/nabu-mobile/Nabu Mobile/Pages/Admin/Product/Index.cshtml]
+[E:/FULearning/Spring2023/PRN211/project/nabu-mobile/Nabu Mobile/Pages/Admin/Product/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cUHJvZHVjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FULearning/Spring2023-Ss7/PRN211/nabu-mobile/Nabu Mobile/Pages/Admin/Product/Test.cshtml]
+[E:/FULearning/Spring2023/PRN211/project/nabu-mobile/Nabu Mobile/Pages/Admin/Product/Test.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cUHJvZHVjdFxUZXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FULearning/Spring2023-Ss7/PRN211/nabu-mobile/Nabu Mobile/Pages/Category/Index.cshtml]
+[E:/FULearning/Spring2023/PRN211/project/nabu-mobile/Nabu Mobile/Pages/Category/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FULearning/Spring2023-Ss7/PRN211/nabu-mobile/Nabu Mobile/Pages/Index.cshtml]
+[E:/FULearning/Spring2023/PRN211/project/nabu-mobile/Nabu Mobile/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FULearning/Spring2023-Ss7/PRN211/nabu-mobile/Nabu Mobile/Pages/Order/AllOrders.cshtml]
+[E:/FULearning/Spring2023/PRN211/project/nabu-mobile/Nabu Mobile/Pages/Order/AllOrders.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJcQWxsT3JkZXJzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FULearning/Spring2023-Ss7/PRN211/nabu-mobile/Nabu Mobile/Pages/Product/Detail.cshtml]
+[E:/FULearning/Spring2023/PRN211/project/nabu-mobile/Nabu Mobile/Pages/Product/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdFxEZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FULearning/Spring2023-Ss7/PRN211/nabu-mobile/Nabu Mobile/Pages/Shared/_Layout1.cshtml]
+[E:/FULearning/Spring2023/PRN211/project/nabu-mobile/Nabu Mobile/Pages/Shared/_Layout1.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQxLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FULearning/Spring2023-Ss7/PRN211/nabu-mobile/Nabu Mobile/Pages/Shared/_Layout2.cshtml]
+[E:/FULearning/Spring2023/PRN211/project/nabu-mobile/Nabu Mobile/Pages/Shared/_Layout2.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FULearning/Spring2023-Ss7/PRN211/nabu-mobile/Nabu Mobile/Pages/_ValidationScriptsPartial.cshtml]
+[E:/FULearning/Spring2023/PRN211/project/nabu-mobile/Nabu Mobile/Pages/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FULearning/Spring2023-Ss7/PRN211/nabu-mobile/Nabu Mobile/Pages/_ViewImports.cshtml]
+[E:/FULearning/Spring2023/PRN211/project/nabu-mobile/Nabu Mobile/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FULearning/Spring2023-Ss7/PRN211/nabu-mobile/Nabu Mobile/Pages/_ViewStart.cshtml]
+[E:/FULearning/Spring2023/PRN211/project/nabu-mobile/Nabu Mobile/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
